@@ -50,7 +50,9 @@ The exploratory data analisys can be seen in Python notebook. It contains both W
 Following thing needed to be set before exicuting ML modelling.  
 
 ```txt
-1) Install dependencies
+clone the repository and do following in home directory.
+
+1) Install dependencies (pip install -r requirements.txt)
 2) Download word embedding
 3) Add dataset path to the script 
 4) Add embedding path to the script
