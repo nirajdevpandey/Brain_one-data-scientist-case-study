@@ -43,7 +43,7 @@ Let's see the count of overall in our dataset
 We can see that the most data points have recieved good reviews around 5.0. Now let's clean the data ans see the classes (positive and nagetive). 
 ![](https://github.com/nirajdevpandey/Brain_one-data-scientist-case-study/blob/master/plots/class_dist.png)
 
-Here one can see that we have very huge class imbalance. The can be solved by using sampling and other techniques. However, for the sake of this implementation we are not perfroming any of these.
+Here one can see that we have `very huge class imbalance`. The can be solved by using sampling and other techniques. However, for the sake of this implementation we are not perfroming any of these.
 
 The exploratory data analisys can be seen in Python notebook. It contains both Word embedding part and the data-set part. 
 ### How to run?
